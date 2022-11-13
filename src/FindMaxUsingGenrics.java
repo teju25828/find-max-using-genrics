@@ -5,6 +5,9 @@ public class FindMaxUsingGenrics {
         test((int)500,(int)800,(int)350);
         test((int)500,(int)400,(int)900);
 
+        test((float)500.89,(float)400.50,(float)350.52);
+        test((float)500.50,(float)800.25,(float)350.25);
+        test((float)500.25,(float)400.26,(float)900.89);
 
 
 
